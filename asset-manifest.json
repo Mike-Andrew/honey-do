@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/honey-do/static/css/main.6118055a.chunk.css",
+    "main.js": "/honey-do/static/js/main.9af21ff7.chunk.js",
+    "main.js.map": "/honey-do/static/js/main.9af21ff7.chunk.js.map",
+    "runtime-main.js": "/honey-do/static/js/runtime-main.a76a555b.js",
+    "runtime-main.js.map": "/honey-do/static/js/runtime-main.a76a555b.js.map",
+    "static/js/2.7b16caea.chunk.js": "/honey-do/static/js/2.7b16caea.chunk.js",
+    "static/js/2.7b16caea.chunk.js.map": "/honey-do/static/js/2.7b16caea.chunk.js.map",
+    "index.html": "/honey-do/index.html",
+    "precache-manifest.79d90e25e759ffadbd3004d71ec061b6.js": "/honey-do/precache-manifest.79d90e25e759ffadbd3004d71ec061b6.js",
+    "service-worker.js": "/honey-do/service-worker.js",
+    "static/css/main.6118055a.chunk.css.map": "/honey-do/static/css/main.6118055a.chunk.css.map",
+    "static/js/2.7b16caea.chunk.js.LICENSE.txt": "/honey-do/static/js/2.7b16caea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a76a555b.js",
+    "static/js/2.7b16caea.chunk.js",
+    "static/css/main.6118055a.chunk.css",
+    "static/js/main.9af21ff7.chunk.js"
+  ]
+}
