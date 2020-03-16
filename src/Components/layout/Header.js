@@ -5,7 +5,7 @@ export function Header() {
     return (
         <header style={headerStyle}>
             <h1>Honey-Do's</h1>
-            <Link style={linkStyle} to="/">Home</Link> | <Link style={linkStyle} to="/about">About</Link>
+            <Link style={linkStyle} to="/honey-do/">Home</Link> | <Link style={linkStyle} to="/about">About</Link>
         </header>
     )
 }
@@ -13,7 +13,7 @@ export function Header() {
 const headerStyle = {
     backgroundColor: '#55a',
     fontFamily: 'cursive',
-    fontSize: 'x-large',
+    fontSize: 'xx-large',
     color: '#fff',
     textAlign: 'center',
     padding: '10px',
